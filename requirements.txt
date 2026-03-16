@@ -1,0 +1,5 @@
+livekit-agents
+livekit-agents[google]~=1.4
+fastapi
+uvicorn
+pydantic
